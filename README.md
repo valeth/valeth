@@ -4,8 +4,10 @@ I use GitHub mostly as a git mirror.
 
 Most of my projects are hosted on [GitLab].
 
-<!-- ![GitHub Stats] -->
-<!-- ![Language Stats] -->
+---
+
+![Language Stats]
+![GitHub Stats]
 
 <!-- links -->
 
