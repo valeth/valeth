@@ -2,7 +2,7 @@ Hi there :coffee:
 
 I use GitHub mostly as a git mirror.
 
-Most of my projects are hosted on [GitLab].
+Most of my projects are hosted on [GitLab] or my personal Gitea instance.
 
 ---
 
