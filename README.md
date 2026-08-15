@@ -1,10 +1,3 @@
 Hi there :coffee:
 
-I use GitHub mostly as a git mirror.
-
-Most of my projects are hosted on [Codeberg], [GitLab], or my personal Gitea instance.
-
-<!-- links -->
-
-[Codeberg]: https://codeberg.org/valeth
-[GitLab]: https://gitlab.com/valeth
+Most of my projects are hosted on Codeberg, any repository here that is not also available on other repository hosts should be considered abandonware.
